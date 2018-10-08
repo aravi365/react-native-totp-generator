@@ -2,7 +2,6 @@ import React from 'react';
 import { View, Text, TouchableHighlight, AsyncStorage, StatusBar, ActivityIndicator } from 'react-native';
 import { createStackNavigator } from 'react-navigation';
 import Navigator from './app/containers/Navigator'
-
 import NavigatorService from './app/containers/NavigatorService'
 
 import { Provider } from 'react-redux'

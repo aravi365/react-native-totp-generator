@@ -1,5 +1,5 @@
 import React from 'react';
-import { View, Text, Easing, Animated } from 'react-native';
+import { View, Text, Easing, Animated,StyleSheet } from 'react-native';
 import { StackNavigator, DrawerNavigator, SwitchNavigator, TabNavigator } from 'react-navigation'
 import MainPage from './MainPage'
 // import ScanQR from './ScanQR'
